@@ -1,0 +1,155 @@
+.container-fluid{
+    margin-left: 50%;
+    /* gap: 10%; */
+    /* align-items: center; */
+    /* margin: 50px; */
+    /* padding: 20px; */
+    /* justify-content: center; */
+}
+
+.collapse ul li{
+    /* padding: 10px; */
+    /* gap: 10%; */
+    margin-left: 50px;
+}
+
+.about-us{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.profile a{
+    font-weight: 900;
+    color: black;
+    font-size: 200% ;
+    text-decoration: none;    
+}
+
+.corebits{
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.corebits img{
+    height: 35vh;
+    width: 16vw;
+    padding: 1px;
+    border: 1px solid black;
+}
+
+.ourproduct{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    margin-left: 20px;
+
+}
+
+.ourproduct a{
+     text-decoration: none;
+     color: black;
+}
+
+.ourproduct ul li{
+    list-style: none;
+
+}
+.ourproduct img{
+    height: 45vh;
+    width: 45vh;
+    margin-top: 20px;    
+}
+
+.col1{
+    border: 2px solid rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.col2{
+    border: 2px solid rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.col3{
+    border: 2px solid rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.col4{
+    border: 2px solid rgba(0, 0, 0, 0.199);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.hsn-code{
+    border: 1px solid black;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    /* padding: 20px; */
+    
+    display: inline-block;
+}
+
+.hsnc1{
+    display: flex;
+    gap: 90px;
+    background-color: rgba(41, 13, 199, 0.822);
+    padding: 20px;
+    color: white;
+}
+
+.hsnc2{
+    display: flex;
+    gap: 82px;
+    border-bottom: 1px solid black;
+}
+
+.code1{
+    margin-left: 20px;
+} 
+
+.hsnc3{
+    display: flex;
+    gap: 82px;
+    margin-left: 25px;
+}
+
+.get{
+    background-color: rgba(41, 13, 199, 0.822);
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto; 
+}
+
+.company a{
+    text-decoration: none;
+    color: black;
+}
+
+.company ul li{
+    list-style: none;
+}
+
+.map a{
+    text-decoration: none;
+    color: black;
+}
+
+.message{
+    /* grid-row:1/3 ; */
+}
